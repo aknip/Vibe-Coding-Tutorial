@@ -2,7 +2,8 @@
 
 Create a simple game with a detailed spec and a prompt plan.
 
-Using Model "SWE-1" this will take approx. 
+The files "spec.md" and "prompt_plan.md" are examples for generated specs and plan. If you want to use them, skip prompt 1-3 and execute prompt 4.
+
 
 
 ## Configuration of Cascade
@@ -36,7 +37,7 @@ Make sure and separate each prompt section. Use markdown. Each prompt should be 
 Save the spec in a file called "prompt_plan.md".
 
 
-### Prompt 4 (chat mode)
+### Prompt 4 (write mode)
 1. Open file "prompt_plan.md" and identify any prompts not marked as completed.
 2. For each incomplete prompt:
     - Double-check if it's truly unfinished (if uncertain, ask for clarification).
@@ -47,7 +48,7 @@ Save the spec in a file called "prompt_plan.md".
     - Update file "prompt_plan.md" to mark this prompt as completed. Put the mark "✅ COMPLETED" at the end of the corresponding prompt headline.
 3. After you finish each prompt, pause and wait for user review or feedback.
 4. Repeat with the next unfinished prompt as directed by the user.
-IMPORTANT: Follow these steps Follow each of these instructions in detail!
+IMPORTANT: Follow each of these instructions in detail!
 
 
 ## Speeding up

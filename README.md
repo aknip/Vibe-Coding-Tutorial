@@ -1,6 +1,9 @@
 # Vibe-Coding-Tutorial
 
-Step through different concepts of creating a trivia game using React and Vite.
+Step through different concepts of creating a trivia game:
+- Code by using "Tab completion"
+- Code by using "Agent mode"
+- Code by using Task directed development (Specs/PRD, Tasks, Sub-Tasks, Execution)
 
 
 ## Additional ressources

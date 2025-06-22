@@ -2,7 +2,7 @@
 
 Create a simple game with just one prompt.
 
-Using Model "SWE-1" this will take approx. 
+Using Model "SWE-1" this will take approx. 5 minutes.
 
 
 ## Configuration of Cascade

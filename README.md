@@ -5,6 +5,9 @@ Step through different concepts of creating a trivia game using React and Vite.
 
 ## Additional ressources
 
+### Windsurf planning mode
+- https://windsurf.com/blog/windsurf-wave-10-planning-mode
+
 ### My current AI coding workflow (05/2025)
 Clearly separated lanning and exeucution phases with detailed prompts: 
 - https://carlrannaberg.medium.com/my-current-ai-coding-workflow-f6bdc449df7f

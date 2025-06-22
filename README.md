@@ -25,7 +25,8 @@ Step through different concepts of creating a trivia game using React and Vite.
 
 ### Vibecoding goes PRO (AI coding workflow for Cursor, usable for Windsuf, too!)
 Tutorial explaining the underlying concepts
-https://www.youtube.com/watch?v=cniTWVMGD08
+- https://www.youtube.com/watch?v=cniTWVMGD08
+- Prompts: https://github.com/snarktank/ai-dev-tasks
 
 
 ### My current AI coding workflow (05/2025)

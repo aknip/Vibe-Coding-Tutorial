@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": ["London", "Berlin", "Paris", "Madrid"],
+    "correctAnswer": "Paris",
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correctAnswer": "Mars",
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "question": "What is the largest mammal in the world?",
+    "options": ["African Elephant", "Blue Whale", "Giraffe", "Polar Bear"],
+    "correctAnswer": "Blue Whale",
+    "category": "Animals",
+    "difficulty": "medium"
+  },
+  {
+    "id": 4,
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "correctAnswer": "Leonardo da Vinci",
+    "category": "Art",
+    "difficulty": "medium"
+  },
+  {
+    "id": 5,
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "correctAnswer": "Au",
+    "category": "Science",
+    "difficulty": "easy"
+  }
+]
